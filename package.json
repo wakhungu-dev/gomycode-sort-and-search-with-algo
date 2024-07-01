@@ -1,0 +1,13 @@
+{
+  "name": "gomycode-checkpoint-for-sorting-and-searching",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/insertionSortTest.js"
+   
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
